@@ -1,0 +1,3 @@
+*.weights
+main_api_code.py
+yolov3_env*/
